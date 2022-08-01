@@ -1,5 +1,6 @@
 package model.exceptions;
 
+import java.util.HashMap;
 import java.util.Map;
 
 public class ValidationException extends RuntimeException{
